@@ -1,2 +1,2 @@
 # simple-table
-A simple table for simple utilization
+A simple table for simple utilization.

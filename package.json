@@ -1,6 +1,6 @@
 {
   "name": "easy-simple-table",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "A simple table for simple utilization",
   "main": "dist/index.js",
   "repository": {
